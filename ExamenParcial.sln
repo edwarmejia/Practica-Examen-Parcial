@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamParcial", "ExamParcial\ExamParcial.csproj", "{FD339AB2-BD7D-4301-9ACC-E791260C2239}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamParcialTest", "ExamParcialTest\ExamParcialTest.csproj", "{4A0E1411-2013-47F8-953D-8EBFC2CA0961}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD339AB2-BD7D-4301-9ACC-E791260C2239}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD339AB2-BD7D-4301-9ACC-E791260C2239}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD339AB2-BD7D-4301-9ACC-E791260C2239}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD339AB2-BD7D-4301-9ACC-E791260C2239}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A0E1411-2013-47F8-953D-8EBFC2CA0961}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A0E1411-2013-47F8-953D-8EBFC2CA0961}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A0E1411-2013-47F8-953D-8EBFC2CA0961}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A0E1411-2013-47F8-953D-8EBFC2CA0961}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
